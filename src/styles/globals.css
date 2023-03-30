@@ -3,20 +3,12 @@
 
 /* ------------------ VARIABLES ------------------ */
 :root{
-  --light-color: #f8f8f9;
-  --dark-color: #18181b;
-  --blue-color: #2260ff;
-  --light-blue-color: #b5c9fc;
-  --border-color: #c1c1e7;
-}
-
-/* :root{
   --light-color: #18181b;
   --dark-color: #f8f8f9;
   --blue-color: #7298f8;
   --light-blue-color: #2d323d;
   --border-color: #383c44;
-} */
+}
 
 /* ------------------ GLOBAL ------------------ */
 *,
